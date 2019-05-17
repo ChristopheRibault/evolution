@@ -1,0 +1,14 @@
+.World{
+  height: 400px;
+  width: 400px;
+
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.World svg{
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+
+}
